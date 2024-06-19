@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw3_beatles</string>
+    <string name="artist">Исполнитель</string>
+    <string name="name_song">Наименование композиции</string>
+    <string name="image_album">image_album</string>
+    <string name="button_left">button_left</string>
+    <string name="button_right">button_right</string>
+    <string name="button_play">button_play</string>
+</resources>
